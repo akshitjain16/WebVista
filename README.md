@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> SaaS Website Builder, Project Management And Dashboard
     <br> 
 </p>
 
@@ -34,7 +34,30 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Features in this application.
+🤯 Multivendor B2B2B Saas
+🏢 Agency and Sub accounts
+🌐 Unlimited funnel hosting
+🚀 Full Website & Funnel builder
+💻 Role-based Access
+🔄 Stripe Subscription plans
+🛒Stripe add-on products
+🔐 Connect Stripe accounts for all users! - Stripe Connect
+💳 Charge application fee per sale and recurring sales
+💰 Custom Dashboards
+📊 Media Storage
+📈 Stripe Product Sync
+📌Custom checkouts on funnels
+📢 Get leads from funnels
+🎨 Khanban board
+📂 Project management system
+🔗 Notifications
+📆 Funnel performance metrics
+🧾 Agency and subacc metrics
+🌙 Graphs and charts
+☀️ Light & Dark mode
+📄 Functioning landing page
+Website with background grids
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -42,10 +65,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+clone this repository in your local system
 
 ```
-Give examples
+git clone https://github.com/akshitjain16/WebVista
 ```
 
 ### Installing
@@ -55,13 +78,13 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+npm install
 ```
 
 And repeat
 
 ```
-until finished
+npm run dev
 ```
 
 End with an example of getting some data out of the system or using it for a little demo.
@@ -98,14 +121,14 @@ Add additional notes about how to deploy this on a live system.
 
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
+- [NextJs](https://Nextjs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@akshitjain](https://github.com/akshitjain16) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/akshitjain16/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
